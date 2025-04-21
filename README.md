@@ -12,16 +12,18 @@
 
 <br>
 
+
+<h2 align="">Projects</h2>
+
 <!-- Glass Card Effect -->
 <div style="background: rgba(255, 255, 255, 0.05); border-radius: 16px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px; margin: 20px 0;">
-  <h2 align="center">Projects</h2>
 
   <table>
+
     <tr>
       <td width="50%" valign="middle" align="left">
-        <h3>Project One</h3>
-        <p><strong>Next.js • TypeScript • Tailwind</strong></p>
-        <p>Modern full-stack application with seamless UI/UX and powerful backend integration</p>
+        <p><strong>Project One</strong></p>
+        <p>Description</p>
         <a href="https://github.com/madrzak/project-one">View Project →</a>
       </td>
       <td width="50%" valign="middle">
@@ -32,51 +34,7 @@
         </div>
       </td>
     </tr>
-    <tr>
-      <td width="50%" valign="middle" align="left">
-        <h3>Project Two</h3>
-        <p><strong>React • Firebase • Styled Components</strong></p>
-        <p>Real-time data application with responsive design and cloud functions</p>
-        <a href="https://github.com/madrzak/project-two">View Project →</a>
-      </td>
-      <td width="50%" valign="middle">
-        <div align="center">
-          <a href="https://github.com/madrzak/project-two">
-            <img src="https://via.placeholder.com/500x300/0D1117/8A2BE2?text=Project+Two" width="100%" alt="Project Two"/>
-          </a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="middle" align="left">
-        <h3>Project Three</h3>
-        <p><strong>Node.js • Express • MongoDB</strong></p>
-        <p>API-driven platform with robust authentication and data processing</p>
-        <a href="https://github.com/madrzak/project-three">View Project →</a>
-      </td>
-      <td width="50%" valign="middle">
-        <div align="center">
-          <a href="https://github.com/madrzak/project-three">
-            <img src="https://via.placeholder.com/500x300/0D1117/FF69B4?text=Project+Three" width="100%" alt="Project Three"/>
-          </a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="middle" align="left">
-        <h3>Project Four</h3>
-        <p><strong>Vue.js • Vuetify • GraphQL</strong></p>
-        <p>Interactive dashboard with data visualization and real-time updates</p>
-        <a href="https://github.com/madrzak/project-four">View Project →</a>
-      </td>
-      <td width="50%" valign="middle">
-        <div align="center">
-          <a href="https://github.com/madrzak/project-four">
-            <img src="https://via.placeholder.com/500x300/0D1117/00CED1?text=Project+Four" width="100%" alt="Project Four"/>
-          </a>
-        </div>
-      </td>
-    </tr>
+   
   </table>
 </div>
 
