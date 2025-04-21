@@ -19,22 +19,21 @@
 <div style="background: rgba(255, 255, 255, 0.05); border-radius: 16px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px; margin: 20px 0;">
 
   <table>
-
     <tr>
       <td width="50%" valign="middle" align="left">
-        <p><strong>Project One</strong></p>
-        <p>Description</p>
-        <a href="https://github.com/madrzak/project-one">View Project →</a>
+        <p><strong>ConvertFast</strong></p>
+        <p>A macOS menu bar app that automatically converts media files using FFmpeg and cwebp. Supports MP3 compression, MP4/MOV conversions, GIF creation, and WebP image conversion.</p>
+        <a href="https://github.com/madrzak/ConvertFast">View Project →</a>
       </td>
       <td width="50%" valign="middle">
         <div align="center">
-          <a href="https://github.com/madrzak/project-one">
-            <img src="https://via.placeholder.com/500x300/0D1117/6495ED?text=Project+One" width="100%" alt="Project One"/>
+          <a href="https://github.com/madrzak/ConvertFast">
+            <img src="https://raw.githubusercontent.com/madrzak/ConvertFast/master/public/launch.png" width="100%" alt="ConvertFast"/>
           </a>
         </div>
       </td>
     </tr>
-   
+    
   </table>
 </div>
 
