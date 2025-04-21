@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lukasz%20Madrzak&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" alt="header"/>
 </div>
 
-<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madrzak&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=madrzak&style=flat-square&color=blueviolet" alt="Profile views">
@@ -10,17 +12,9 @@
 
 <br>
 
-<h2 align="center">Analytics</h2>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madrzak&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
-</div>
-
-<br>
-
 <!-- Glass Card Effect -->
 <div style="background: rgba(255, 255, 255, 0.05); border-radius: 16px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px; margin: 20px 0;">
-  <h2 align="center">🚀 Featured Projects</h2>
+  <h2 align="center">Projects</h2>
 
   <table>
     <tr>
