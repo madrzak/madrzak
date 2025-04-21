@@ -8,7 +8,7 @@ To change the color theme, simply update the hex code above and search/replace a
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madrzak&theme=blueberry&hide_border=true&background=0D1117&stroke=4299e1&fire=4299e1&ring=4299e1&currStreakNum=4299e1&currStreakLabel=4299e1" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madrzak&theme=blueberry&hide_border=true&background=121212&stroke=4299e1&fire=4299e1&ring=4299e1&currStreakNum=4299e1&currStreakLabel=4299e1&dates=4299e1&sideNums=4299e1&sideLabels=4299e1" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
