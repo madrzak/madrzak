@@ -26,9 +26,9 @@
         <a href="https://github.com/madrzak/ConvertFast">View Project →</a>
       </td>
       <td width="50%" valign="middle">
-        <div align="center">
+        <div align="right" style="margin: 0; padding: 0;">
           <a href="https://github.com/madrzak/ConvertFast">
-            <img src="https://raw.githubusercontent.com/madrzak/ConvertFast/master/public/launch.png" width="100%" alt="ConvertFast"/>
+            <img src="public/launch.png" width="200" height="200" style="object-fit: cover; border-radius: 8px;" alt="ConvertFast"/>
           </a>
         </div>
       </td>
