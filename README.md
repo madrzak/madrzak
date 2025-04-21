@@ -4,7 +4,7 @@ To change the color theme, simply update the hex code above and search/replace a
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4299e1&height=200&section=header&text=Lukasz%20Madrzak&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4299e1&height=200&section=header&text=woocassh&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" alt="header"/>
 </div>
 
 <div align="center">
