@@ -8,7 +8,7 @@ To change the color theme, simply update the hex code above and search/replace a
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madrzak&theme=blueberry&hide_border=true&background=121212&stroke=4299e1&fire=4299e1&ring=4299e1&currStreakNum=4299e1&currStreakLabel=4299e1&dates=4299e1&sideNums=4299e1&sideLabels=4299e1" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madrzak&theme=blueberry&hide_border=true&background=FFFFFF0D&stroke=4299e1&fire=4299e1&ring=4299e1&currStreakNum=4299e1&currStreakLabel=4299e1&dates=4299e1&sideNums=4299e1&sideLabels=4299e1" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@ To change the color theme, simply update the hex code above and search/replace a
 <h2 align="" style="border-bottom: none; margin-bottom: 0;">Projects</h2>
 
 <!-- Glass Card Effect -->
-<div style="background: rgba(255, 255, 255, 0.05); border-radius: 16px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px; margin: 20px 0;">
+<div style="background: #FFFFFF0D; border-radius: 16px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px); padding: 20px; margin: 20px 0;">
 
   <table>
     <tr>
